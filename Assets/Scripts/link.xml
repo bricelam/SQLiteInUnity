@@ -1,0 +1,7 @@
+<linker>
+  <assembly fullname="SQLitePCLRaw.batteries_v2">
+    <type fullname="SQLitePCL.Batteries_V2">
+      <method name="Init" />
+    </type>
+  </assembly>
+</linker>
